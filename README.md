@@ -1,7 +1,7 @@
 # ShopSync - Unified Online Shopping Dashboard
 
 A production-ready microservices-based dashboard to track online shopping orders, shipments, and spending across multiple platforms.
-1
+12
 ## Architecture
 
 - **Microservices**: Auth, Order, Tracking, Analytics, Notification.
